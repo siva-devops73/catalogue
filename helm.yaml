@@ -1,0 +1,5 @@
+image:
+  repository: 904827379241.dkr.ecr.us-east-1.amazonaws.com/catalogue
+
+port: 8080
+component: catalogue
